@@ -1,3 +1,5 @@
+NOTE !!!  create folders named : dataset and trainer   then use these files on your local system run app.py 
+
 A web-based AI Attendance System that uses face recognition (LBPH) to automatically register students and mark attendance in real time.
 The system provides a browser-based interface, live webcam capture, automatic model training, and admin-style dashboards for attendance monitoring.
 
