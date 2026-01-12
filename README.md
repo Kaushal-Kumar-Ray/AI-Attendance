@@ -1,4 +1,3 @@
-# AI-Attendance
 A web-based AI Attendance System that uses face recognition (LBPH) to automatically register students and mark attendance in real time.
 The system provides a browser-based interface, live webcam capture, automatic model training, and admin-style dashboards for attendance monitoring.
 
